@@ -1,7 +1,7 @@
 Overview
 Our work is conducted on LandBench 1.0.
 
-The code for soil moisture prediction based on meta-learning is hosted here(https://github.com/2023ATAI/MetaLearning)
+The code for soil moisture prediction based on AEDLSTM-HBV is hosted here(https://github.com/2023ATAI/AEDLSTM-HBV)
 
 Installation
 Python3.9.13
